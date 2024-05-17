@@ -4,7 +4,7 @@ You can complete this level by injecting in the developer console a bruteforce a
 for (var i = 0; i < 999999999; i++)
 {
     document.getElementById("input").value = i;
-    await new Promise(r => setTimeout(r, 1)); // Wait for the other JS to change the src
+    await new Promise(r => setTimeout(r, 300)); // Wait for the other JS to change the src
     if (document.getElementById("light").src.includes("bulb_1")) { console.log("CODE: " + i); break; }
 }
 

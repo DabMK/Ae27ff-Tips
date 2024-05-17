@@ -1,0 +1,2 @@
+Download the image and analyze it with various tools. You should find a weird patter with only 2 different things.
+It may remember a famous code where every component of your PC runs on. Try to decode it

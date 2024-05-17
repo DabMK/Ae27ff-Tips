@@ -14,7 +14,7 @@ var con = "codeFound";
 for (var i = 0; i < 999999999; i++)
 {
     document.getElementById("input").value = con + i.toString();
-    await new Promise(r => setTimeout(r, 1)); // Wait for the other JS to change the src
+    await new Promise(r => setTimeout(r, 3)); // Wait for the other JS to change the src
     if (document.getElementById("light").src.includes("bulb_2")) { console.log("CODE: " + con + i.toString()); break; }
 }
 

@@ -1,0 +1,3 @@
+This level just requires logic: every row, starting from the SECOND one, starts with a multiple of 6.
+To know what number will be in an "N" row, we need to multiply 6 with (N-1).
+Then you will need to add another number to that result, because the text asks for a particular column

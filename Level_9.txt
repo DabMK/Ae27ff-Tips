@@ -1,0 +1,2 @@
+We can see a dark image in the page; analyzing it with a forensics analysis reveals something
+I personally suggest to use "https://aperisolve.fr/" or "https://29a.ch/photo-forensics/" website for forensics analysis

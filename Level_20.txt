@@ -1,0 +1,4 @@
+As you can deduct from the given text, there are 3 files named "greenpurple.bin", "gpmsg.bin" and "gpinfo.txt". The tip in the source says "xor".
+To solve this level, you need to use XOR (I suggest using the "https://cyber.meme.tips/xorjs/" website).
+As the .txt file states, you need to offset a file by 293 bytes. You obviously need to do that with the biggest .bin file, because the other one doesn't even contain 293 bytes.
+Finally, combine inputs and read the given output file

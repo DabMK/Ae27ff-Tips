@@ -1,0 +1,8 @@
+Looking at the source code of the page we can observe an useful comment:
+
+things to observe:
+	the puzzle title
+	mistakes in the text (indicative of something else)
+
+The title contains the word "Capital" and in the text there are various capitalization errors.
+That suggests that you should look at the capital letters in the text

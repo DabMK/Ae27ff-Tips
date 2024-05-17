@@ -1,0 +1,3 @@
+As the hint in the source suggests (that you need to decode from Base 64 and then morse code), you have to do something with your HTTP_REFERER.
+The HTTP_REFERER is a web header that almost every browser uses, that tells the website where you came from.
+There are various programs and broswer extensions to change it, but I personally suggest this one: "https://mybrowseraddon.com/modify-header-value.html"

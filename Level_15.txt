@@ -1,0 +1,3 @@
+This level is extremely difficult. You just need to do a very deep forensics analysis on that photo.
+You will find 4 strings that, if merged (left to right and up to down), make a word.
+I personally suggest to use "https://aperisolve.fr/" or "https://29a.ch/photo-forensics/" website for forensics analysis

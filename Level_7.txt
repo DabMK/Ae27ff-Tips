@@ -1,0 +1,2 @@
+Looking at the page code we can see a comment saying "vig cipher", that suggests to use the Vigenere Cipher
+Additional tip: use the english alphabet to decode the message in the vigenere cipher

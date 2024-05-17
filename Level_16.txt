@@ -1,4 +1,0 @@
-Use the "https://www.dcode.fr/cipher-identifier" page to identify the cipher of the suggestion in the source.
-Then you have to find another image hidden in the first one.
-I personally suggest to use the "HxD" program to do that; as the tip suggests, search for the magic bytes of the image.
-Finally, merge the images and they should make a word

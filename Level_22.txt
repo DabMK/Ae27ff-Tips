@@ -1,2 +1,0 @@
-This level is pretty hard: you need to analyze the image, and find the rar file hidden into the hex data (use HxD program to find that), searching for magic bytes in it
-Then, you have 2 paths: dictionary attack the rar or look at the source code of the page, that tells you to look at "both the heads", refering to the response's headers of that page

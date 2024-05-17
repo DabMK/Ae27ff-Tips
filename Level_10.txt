@@ -1,3 +1,0 @@
-We need to look at the page source: you will see this comment:
-<!-- c2 r5   ->   Pbin -->
-They're coordinates in the series of strings given and "Pbin" suggests to search that string in a pastebin link ("https://pastebin.com/" + string)

@@ -1,0 +1,1 @@
+You just need to do a dictionary attack to the zip file (you can find a lot of programs to do that online)

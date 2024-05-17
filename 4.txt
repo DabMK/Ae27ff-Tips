@@ -1,2 +1,0 @@
-The page title suggests that the sequence of number needs to be decoded from "Octal", with white space (" ") as separator.
-Then you should have your answer

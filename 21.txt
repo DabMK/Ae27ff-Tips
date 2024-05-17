@@ -1,2 +1,0 @@
-As the title suggests, you need to decode the audio file using a DTMF decoder (it is easier if you do that with the clean version, found in the source code).
-When you have found the number sequence, decode it (I personally suggest to use "https://www.dcode.fr/" website) and do what the text of the level says

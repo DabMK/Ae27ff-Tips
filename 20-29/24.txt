@@ -1,0 +1,5 @@
+Level 24 is not easy at all. The given text is in Vigenere Cipher and, in order to decode it, you need to know how it works.
+Looking at the source page code will reveal that the result have to be padded with "z" and doing a Kasiski's Test on the text will tell you that the password should be 6 characters long.
+I suggest you to use "https://www.dcode.fr/vigenere-cipher" or "https://gchq.github.io/CyberChef/" website to decode it.
+So, in order to find a 6 character key that gives a text padded with "z", you need to put the "z" as the key, and then find a pattern in the result.
+Once found the important word in the pattern, use it as key and find the padded text, that reveals the password

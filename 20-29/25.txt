@@ -7,7 +7,7 @@ Map of the minigame:
 Tunnel2        Pond2     (Wood2)    Pond4-----(Wood2)
    |             |          |         |
 Tunnel---------Pond-------Wood3-----Pond3-----(Wood2)
-                 |          |
+                            |
               (Wood3)     Wood2-----Wood6
                  |          |
                Wood5------Wood------Wood4

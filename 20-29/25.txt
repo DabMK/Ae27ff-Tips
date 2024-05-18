@@ -12,7 +12,7 @@ Tunnel---------Pond-------Wood3-----Pond3-----(Wood2)
                  |          |
                Wood5------Wood------Wood4
                             |
-           Living Room----Cabin----Closet
+           Living Room----Cabin   Closet
                  |                   |
               Kitchen-----Hall-----Hall2
                             |

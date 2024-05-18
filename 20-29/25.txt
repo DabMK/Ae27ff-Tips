@@ -2,11 +2,11 @@ You can find a Base64 text in the comments, that decodes into a weird string. Wi
 Decode the string with the cipher and play the minigame as the decoded text says.
 Map of the minigame:
 
-  Win         (Wood2)              (Wood2)
-   |             |                    |
-Tunnel2        Pond2     (Wood2)    Pond4-----(Wood2)
-   |             |          |         |
-Tunnel---------Pond-------Wood3-----Pond3-----(Wood2)
+  Win         (Wood2)              
+   |             |                     
+Tunnel2        Pond2-----(Wood2)        
+   |             |          |          
+Tunnel---------Pond-------Wood3-----(Pond)
                             |
               (Wood3)     Wood2-----Wood6
                  |          |

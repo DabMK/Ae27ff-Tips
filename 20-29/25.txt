@@ -18,7 +18,7 @@ Tunnel---------Pond       Wood3-----(Pond)
                             |
                            Bear
 
+- Thing inside brackets are "redirects"
 THE MAP IS SLIGHTLY INCORRECT BECAUSE SOME REDIRECTS WORK IN A WEIRD WAY
-Thing inside brackets are "redirects"
-Before visiting "Tunnel", you need to visit "Pond2"
+Before visiting "Tunnel", you need to visit "Pond2", or else you will be redirected to (Wood2)
 Before playing as the decoded text says and going to "Win" (follow the decoded text and not the map, it's more correct), make sure to visit the bear and go in the closet more times

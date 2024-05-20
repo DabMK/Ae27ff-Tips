@@ -1,0 +1,5 @@
+Looking at the title we can assume that the extension in the text is .mp3
+Using caesar cipher, we can find the offset (just find the offset between z and m or p and c). Then we will the filename.
+Downloading the file from the resources, we can notice a frequency on the comment of the EXIF data.
+Converting the file to WAV and using the program "FLDigi" to set that frequency in the RTTY, we can find a password.
+Merge this password with another password that you will find analyzing the strings that are being said in the audio and then use this string to decode the remaning part of the text decoded with caesar

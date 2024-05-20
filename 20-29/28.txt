@@ -1,2 +1,2 @@
-This level is about networking: look at cookies.
-Online you can find a lot of tools to manipulate cookies
+This level is about networking: look at the cookies.
+Online you can find a lot of tools to manipulate cookies. I suggest to use "https://github.com/DabMK/RequestFaker", my own tool.

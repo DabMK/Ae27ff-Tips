@@ -1,0 +1,5 @@
+To solve level 27, you need to observe the .data file. What does it look like? Can you open it with some free open source image manipulation program?
+Then you will be able to use the source hints: you need to find the colors and it has something to do with the number "800".
+You need to set the image size as 800 while opening it with that software. Then you will need to look at the level's title and at the symbols you will obtain.
+Does a 4 symbol scheme remember you some criptography code? Then decode the text to ASCII and find the password.
+Additional hint: you need to try to write that criptography code 2 times (considering as first both the columns or rows)

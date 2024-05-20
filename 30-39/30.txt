@@ -1,2 +1,2 @@
 To solve this level, bruteforce the hint in the source code with base32 and use the html thing that it tells you to use.
-You need to cause a PHP code injection
+You need to cause a PHP code injection; try to play a bit with the HTML in the inspection tab of the browser

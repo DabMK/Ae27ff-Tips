@@ -1,0 +1,4 @@
+This very hard level is all about cryptography: you know the process used to encrypt a string and you know 3 examples.
+Write a script in any language that does that process backwards and check that the examples corrispond. NOTE: There might be more correct solutions with the examples, just use the easier one you'll come up with.
+Then you will need to add the shift and split each word in 2 different cases: if the initial number is odd or if it is even (we can't know that)
+You will obtain 2 weird strings. Try to replace characters without changing their positions around the 2 strings until you'll obtain a comprehensible string

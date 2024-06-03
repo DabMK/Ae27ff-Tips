@@ -1,0 +1,4 @@
+First of all, we can decode the message encrypted in the source code. Keep in mind that ROT cipher can be bruteforced.
+Then tune the radio to the right frequence and download the file. Extract the text from that file, identify the cipher and tune the radio to this other value.
+Download the new audio and search for EXIF data and find the 2 messages with both the frequency analysis methods (TIP: listen at some MFSK128 samples to identify it in the audio)
+Then use the Mono-alphabetic Substitution cipher with the data you have and remember the message you have decrypted found in the source code

@@ -1,0 +1,3 @@
+In level 35 we can see a form password reset page. Looking at the C code in the source of the page, we notice that the variables storing user and mail info are set to a certain size in memory.
+By forging a custom request, we can pass the cap of the string size to send in the request, causing an unhandled situation in the code, where the variable that stores the timestamp changes value.
+Play with the values until you get the right value, observing the code, to make the boolean "bValidTS" true, without making the other 2 boolean false

@@ -1,0 +1,4 @@
+Level 34 contains a text that changes every second, repeating each hour (so basically 3600 different strings). Below there's a suggestion about the cipher used (m=minute, s=second).
+In the source code, the puzzle tells us that once per hour (UTC), the text will be completely readable.
+Looking at the suggestion, we can assume that the cipher is a substitution cipher and that the current time (minute and second) is the shift key.
+What would minute and second need to look like to see the plain string? (To "cancel" the shift)

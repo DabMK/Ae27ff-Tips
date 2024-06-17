@@ -1,3 +1,3 @@
 The string looks like XOR Cipher. Just decode it bruteforcing the key until you find a readable text.
 I personally suggest to use "https://www.dcode.fr/xor-cipher".
-Finally you need to find one of those things that the text you found asks for; there are many of them: try everyone
+Finally you need to find one of those things that the text you found asks for; there are many of them: try them all

@@ -1,1 +1,1 @@
-You just need to do a dictionary attack to the zip file (you can find a lot of programs to do that online)
+Analyzing the zip content (I suggest to use HxD), we can notice a string at the end. If we decode that string, we get the compressed folder's password

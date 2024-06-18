@@ -1,0 +1,6 @@
+First of all look at the image: notice any EXIF data? Use the website "https://www.boxentriq.com/code-breaking/vigenere-cipher" to bruteforce the vigenere code
+Because in this case dCode doesn't work. Once decoded, look at the file's structure. You can also use some tools to do that. Notice anything weird?
+The decoded vigenere text should tell you a cipher and a key. Use that cipher and that key to decode the image's "hidden data" and treat it as the type of file told in the second word of the decoded vigenere
+Once obtained this file, use a decompiler to analyze it (I personally suggest "https://jdec.app/").
+Since it's almost impossible to crack Math.random(), try to find a way to "force" the event for the correct password.
+Additional tip: the .jar may break if you try to edit it; in that case, make a new java project and import the important files to crack the event

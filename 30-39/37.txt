@@ -1,0 +1,23 @@
+This is surely one of the most beautiful and time consuming levels of the entire ARG. We start just with a weird title and nothing else.
+I personally had spent hours trying to find any weird thing in the page, but I couldn't. That's because the author of the ARG has lied to us.
+The puzzle data is everywhere. Once you have found the "hidden data", decode it and find the kHz (tip: also use level 32)
+After listening to the audio we can recognize a famous cipher; decode the text from that cipher and get another encoded text.
+This time was used a not-so-easy-to-recognize cipher. Once recognized, find the URL and get the other string.
+When decoded, this other strings, gives random stuff. This is because we are not using the "right method" to decode it.
+We can really decode the string using another method, more informations on "https://www.boxentriq.com/code-breaking/hex-analysis"
+Now you should have some coordinates with a string at the end. The last string is encoded with a very famous hash; decode it and find another hint.
+With this hint, we can obtain another text, considering only the initial letters of the thing that the hint tells you to find.
+Now Google is your friend: search your text and find a pastebin page with another text; it is encrypted too.
+Decrypt this text and then you should recognize a cipher that had been already used in this level; decrypt again.
+And for the last time (at least for now), recognize the cipher used and decrypt this last string. You should have an image now.
+Looking at the image, we can see at the top that we have some embedded data. "https://georgeom.net/StegOnline" is a useful website.
+Once found the hidden data, notice that it's an archive; extract the "p" file and look at it. The following part is very complicated.
+Googling the weird strings, we can notice that they're "stars". At the end of the p file there's a different string too.
+Here you have to think about the puzzle's title; notice anything looking at the stars on google again? The different last string of the file is useful too.
+Use that string to get a digit for each star and then analyze what you have obtained. Well, it's not that simple; there are too many stars to do that manually.
+You have to write a script to do that. I personally suggest to use some easy language like C# or Java (not Python because it's too slow and I hate it).
+Now we should have a string that repeats some times. Decode it from decimal and then you should obtain a weird string with 7 characters and spaces.
+This string is a sentence: try to understand what each word of 2 or 3 characters stands for (for example GG is repeated a lot of times).
+Look at the ASCII value of the characters you have identified and try to search for a pattern. Hint: start with the 2-word values.
+One way to automate the process is by using a base identifier and ASCII bruteforce decoder (https://github.com/DabMK/BaseDecoder).
+Once you found this last sentence, the puzzle is basically solved. Try to figure it out by yourself!

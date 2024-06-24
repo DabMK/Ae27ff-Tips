@@ -1,0 +1,7 @@
+First of all we can download an image; looking at the EXIF data, we see a hint. Here Google would be useful to find out the first thing that the hint tell us to find.
+By combining it with the second thing, we can find a cipher. Putting the number we have been told in the hint in the cipher, we get a list of numbers.
+There is some "hidden hex data" in the image, padded with some repeated hex values. Removing the padding, we obtain another list.
+We can notice that the lists are the same size; now we need to do a calculation:
+(first item of hidden data in image to decimal code - first item of the other list) % 256  (Since the lists are pretty long it's faster with a script).
+Then convert what you got to ASCII and you should have a string, telling the shift of the text present in the level's page.
+Subtracting that shift and doing %256 to each value, we obtain another string telling us to do something. Do that thing and finally go to the next level.

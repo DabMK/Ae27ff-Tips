@@ -6,4 +6,4 @@ Now look at the decoded text: the world stands for the external arrows and x and
 Since there are the same number of external white and red arrows, you'll get 2 coordinates.
 EXAMPLE: if there were 5 up red arrows, 3 down white arrows, 5 down red arrows and 3 up white arrows, the coordinates would be 5;3 and 3;5.
 Set the origin (0;0) to up left and find the 2 arrows corrisponding to the 2 coordinates. Follow the arrows and get the "path".
-Finally, sum the 2 numbers and do what the decoded vigenere text said to do.
+Finally, look closely at the picture and you should recognize an operator. Use that operator with the 2 numbers and do what the decoded vigenere text said to do with this final value.

@@ -1,0 +1,9 @@
+First of all we can notice a text encryped in a certain base. Decoding it to base10 and then ASCII, we get an encrypted string.
+Decoding this string from Vigenere isn't easy though. You need to try different part of keys until you understand the first 2 words (they're easy english words)
+Hint: this website can help you "https://www.boxentriq.com/code-breaking/vigenere-cipher". Find the first part of the key that gives you the first 2 words correctly.
+Once found, try to complete the key (it's an english word) and decode the text. Tip: Looking at the title can help you.
+Now look at the decoded text: the world stands for the external arrows and x and y are the coordinates.
+Since there are the same number of external white and red arrows, you'll get 2 coordinates.
+EXAMPLE: if there were 5 up red arrows, 3 down white arrows, 5 down red arrows and 3 up white arrows, the coordinates would be 5;3 and 3;5.
+Set the origin (0;0) to up left and find the 2 arrows corrisponding to the 2 coordinates. Follow the arrows and get the "path".
+Finally, sum the 2 numbers and do what the decoded vigenere text said to do.

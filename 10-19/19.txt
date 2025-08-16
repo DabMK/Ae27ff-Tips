@@ -1,1 +1,2 @@
-The password is the least mentioned color followed by the most mentioned
+The password is the least mentioned color followed by the most mentioned, as the hint suggests.
+To decipher the hint, first bruteforce caesar cipher (same thing as trying rot cipher) and then decode from base32
